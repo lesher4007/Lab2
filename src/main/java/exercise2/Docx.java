@@ -38,8 +38,8 @@ public class Docx extends File {
     @Override
     public void print() {
         System.out.print(getName()+"."+getFileFormat());
-        System.out.print(space(getName(),getFileFormat())+"|");
-        System.out.println(space2(getSize())+getSize()+"|"+getFormatName()+", "+getPages()+" pages");
+        System.out.print(spaceName(getName(),getFileFormat())+"|");
+        System.out.println(spaceSize(getSize())+getSize()+"|"+getFormatName()+", "+getPages()+" pages");
     }
 
 }

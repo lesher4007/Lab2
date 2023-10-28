@@ -45,7 +45,7 @@ public class Video extends File {
     @Override
     public void print() {
         System.out.print(getName()+"."+getFileFormat());
-        System.out.print(space(getName(),getFileFormat())+"|");
-        System.out.println(space2(getSize())+getSize()+"|"+getFormatName()+", "+getDescription()+", "+duration.getHours()+":"+duration.getMinutes()+":"+ duration.getSeconds()+", "+pictureResolution.getHeight()+"x"+pictureResolution.getWidth());
+        System.out.print(spaceName(getName(),getFileFormat())+"|");
+        System.out.println(spaceSize(getSize())+getSize()+"|"+getFormatName()+", "+getDescription()+", "+duration.getHours()+":"+duration.getMinutes()+":"+ duration.getSeconds()+", "+pictureResolution.getHeight()+"x"+pictureResolution.getWidth());
     }
 }

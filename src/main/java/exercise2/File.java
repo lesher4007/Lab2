@@ -48,7 +48,7 @@ public class File {
     public void print(){
 
     }
-    public String space(String name,String formatName){
+    public String spaceName(String name,String formatName){
         int y = name.length()+formatName.length();
         y=20-y;
         if (y<0)
@@ -60,7 +60,7 @@ public class File {
         return "";
 
     }
-    public String space2(int size){
+    public String spaceSize(int size){
         int y = Integer.toString(size).length();
         y=10-y;
         while (y!=0){

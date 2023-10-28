@@ -4,21 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc5b2751-a7f5-47a8-968a-ec370d25eae0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercise1/GenderType.java" afterDir="false" />
+    <list default="true" id="cc5b2751-a7f5-47a8-968a-ec370d25eae0" name="Changes" comment="Add Enum">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise1/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise1/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise1/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise1/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/exercise2/Audio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise2/Audio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/exercise2/Docx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise2/Docx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise2/Duration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise2/Duration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/exercise2/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise2/File.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/exercise2/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise2/Image.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exercise2/PictureResolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise2/PictureResolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/exercise2/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercise2/Video.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +28,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="330cdd7c-2a73-4937-a651-325943bd20f3" />
+        <option name="url" value="https://github.com/lesher4007/Lab2.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectId" id="2XAJqFh64ND90HXEazeT2SfsDu9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -53,7 +57,7 @@
     "onboarding.tips.debug.path": "C:/Users/Professional/IdeaProjects/Lab2/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.exercise2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercise1.Main" />
       <module name="Lab2" />
@@ -82,8 +86,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.exercise2.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -96,6 +100,18 @@
       <option name="presentableId" value="Default" />
       <updated>1698066143543</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add Enum">
+      <created>1698507224539</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698507224539</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Enum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Enum" />
   </component>
 </project>

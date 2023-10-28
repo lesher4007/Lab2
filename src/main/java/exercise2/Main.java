@@ -2,10 +2,10 @@ package exercise2;
 
 public class Main {
     public static void main(String[] args) {
-        Docx doc1 = new Docx("j110-lab2-hiers",23212,"docx","docx",2);
-        Image doc2 = new Image("spb-map",1703527,"image","png",new PictureResolution( 1024,3072));
-        Audio doc3 = new Audio("06-PrettyGirl",7893454,"audio","mp3","Eric Clapton, Pretty Girl",new Duration(5,28));
-        Video doc4 = new Video("BackToTheFuture1",1470984192,"video","avi","Back to the future I, 1985",new Duration(1,48,8),new PictureResolution(640,352));
+        File doc1 = new Docx("j110-lab2-hiers",23212,"docx","docx",2);
+        File doc2 = new Image("spb-map",1703527,"image","png",new PictureResolution( 1024,3072));
+        File doc3 = new Audio("06-PrettyGirl",7893454,"audio","mp3","Eric Clapton, Pretty Girl",new Duration(5,28));
+        File doc4 = new Video("BackToTheFuture1",1470984192,"video","avi","Back to the future I, 1985",new Duration(1,48,8),new PictureResolution(640,352));
 
         File[] files = new File[]{doc1,doc2,doc3,doc4};
 
